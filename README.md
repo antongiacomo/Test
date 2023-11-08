@@ -6,4 +6,4 @@ Questa è una modifica eseguita localmente
 
 paolo bianchessi
 
-un' altra modifica
+un' altra modifica!
