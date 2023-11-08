@@ -1,2 +1,3 @@
 # Test
-La mia prima repo
+## Seminario di AWC
+Questa è una repo di prova
